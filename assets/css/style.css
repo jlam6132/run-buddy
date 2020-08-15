@@ -242,7 +242,7 @@ intro p {
 
 .contact h2 {
     color: #fce138;
-    display: inline-block;
+    display: block;
 }
 
 .contact-info iframe {
