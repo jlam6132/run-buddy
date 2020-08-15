@@ -12,3 +12,5 @@ https://jlam6132.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jessica Lam
+
+### ©️2019 Run Buddy, Inc 
